@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Hugo Dujour — Développeur full-stack" width="100%" />
+  <img src="assets/banner.svg" alt="Hugo — développeur full-stack" width="100%" />
 </div>
 
 <h3 align="center">Je construis des applis web, des outils desktop et des jeux.</h3>
@@ -23,20 +23,21 @@
 
 Développeur **full-stack** basé en France. J'aime les projets menés de bout en bout : le modèle de données, l'API, l'interface, le déploiement — et quand c'est possible, une bonne dose de fun.
 
-Du back-office NestJS au widget Electron, en passant par les jeux navigateur, je cherche surtout à livrer des choses **utilisables, propres et agréables à manipuler**.
+Au travail, je développe en **Java / Angular** avec **PostgreSQL**. À côté, je bricole du React, du Node/NestJS et des jeux.
 
 ```ts
 const hugo = {
   role: "Développeur full-stack",
-  stack: ["TypeScript", "React", "Node.js", "NestJS", "Electron"],
+  pro: ["Java", "Angular", "PostgreSQL"],
+  perso: ["TypeScript", "React", "Node.js", "NestJS", "Electron"],
   aime: ["UI soignée", "game dev", "projets qui racontent quelque chose"],
   enCeMoment: "apps React/NestJS + expérimentations autour des agents IA",
 };
 ```
 
 - ![En ce moment](https://img.shields.io/badge/EN_CE_MOMENT-1F6FEB?style=flat-square) Apps React / NestJS et expérimentations autour des agents IA.
+- ![Au travail](https://img.shields.io/badge/AU_TRAVAIL-0E7490?style=flat-square) Java, Angular et PostgreSQL sur des applications métier.
 - ![À côté](https://img.shields.io/badge/%C3%80_C%C3%94T%C3%89-8B5CF6?style=flat-square) Jeux web, Electron et un peu de romhacking.
-- ![On parle de](https://img.shields.io/badge/ON_PARLE_DE-0891B2?style=flat-square) React, NestJS, Electron, game design, Pokémon.
 - ![Contact](https://img.shields.io/badge/CONTACT-EA4335?style=flat-square&logo=gmail&logoColor=white) [email](mailto:hugogreg@live.fr) · [LinkedIn](https://www.linkedin.com/in/TODO)
 
 ---
@@ -45,6 +46,7 @@ const hugo = {
 
 **Front-end**
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -55,10 +57,12 @@ const hugo = {
 
 **Back-end & données**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
@@ -133,6 +137,8 @@ const hugo = {
 <br />
 
 I'm a **full-stack developer** based in France. I like shipping projects end to end — data model, API, UI, deployment — and adding a healthy dose of fun whenever I can.
+
+At work I build business applications in **Java / Angular** with **PostgreSQL**. On my own time I play with React, Node/NestJS and games.
 
 From NestJS back-ends to Electron widgets and browser games, my goal is always the same: build things that are **usable, clean and pleasant to interact with**.
 
