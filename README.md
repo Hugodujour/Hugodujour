@@ -15,6 +15,14 @@
   <a href="https://github.com/Hugodujour"><img src="https://img.shields.io/badge/Contact-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Contact" /></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugodujour/Hugodujour/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugodujour/Hugodujour/output/github-snake.svg" />
+    <img alt="Animation des contributions" src="https://raw.githubusercontent.com/Hugodujour/Hugodujour/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 ## <samp>&gt; whoami</samp>
@@ -115,14 +123,6 @@ const hugo = {
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hugodujour&theme=tokyo-night&hide_border=true&area=true&custom_title=Activit%C3%A9%20des%2031%20derniers%20jours" alt="Graphique d'activité" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugodujour/Hugodujour/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugodujour/Hugodujour/output/github-snake.svg" />
-    <img alt="Animation des contributions" src="https://raw.githubusercontent.com/Hugodujour/Hugodujour/output/github-snake.svg" width="100%" />
-  </picture>
 </p>
 
 ---
