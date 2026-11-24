@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/Hugodujour"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/Hugodujour?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="https://github.com/Hugodujour"><img src="https://img.shields.io/github/followers/Hugodujour?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="Followers" /></a>
+  <a href="https://github.com/Hugodujour"><img src="https://img.shields.io/badge/Contact-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Contact" /></a>
 </p>
 
 ---
