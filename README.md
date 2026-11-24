@@ -1,7 +1,6 @@
 <!--
   README de profil GitHub · @Hugodujour
-  À personnaliser : remplace les 3 liens marqués "TODO" (LinkedIn, portfolio, e-mail).
-  Le reste (projets, stats) se met à jour tout seul.
+  Tous les liens pointent vers le profil GitHub. Aucune donnée de contact externe.
 -->
 
 <div align="center">
@@ -11,10 +10,9 @@
 <h3 align="center">Je construis des applis web, des outils desktop et des jeux.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://TODO-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:hugogreg@live.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Hugodujour"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Hugodujour?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/Hugodujour"><img src="https://img.shields.io/github/followers/Hugodujour?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="Followers" /></a>
 </p>
 
 ---
@@ -38,7 +36,7 @@ const hugo = {
 - ![En ce moment](https://img.shields.io/badge/EN_CE_MOMENT-1F6FEB?style=flat-square) Apps React / NestJS et expérimentations autour des agents IA.
 - ![Au travail](https://img.shields.io/badge/AU_TRAVAIL-0E7490?style=flat-square) Java, Angular et PostgreSQL sur des applications métier.
 - ![À côté](https://img.shields.io/badge/%C3%80_C%C3%94T%C3%89-8B5CF6?style=flat-square) Jeux web, Electron et un peu de romhacking.
-- ![Contact](https://img.shields.io/badge/CONTACT-EA4335?style=flat-square&logo=gmail&logoColor=white) [email](mailto:hugogreg@live.fr) · [LinkedIn](https://www.linkedin.com/in/TODO)
+- ![Contact](https://img.shields.io/badge/CONTACT-EA4335?style=flat-square&logo=github&logoColor=white) Le plus simple : [github.com/Hugodujour](https://github.com/Hugodujour), en issue ou en PR.
 
 ---
 
@@ -151,7 +149,7 @@ From NestJS back-ends to Electron widgets and browser games, my goal is always t
 - **[Valentino Quiz](https://github.com/Hugodujour/valentino-qcm)** — quiz app for exam revision with timer, scores and saved progress.
 - **[Labo Clicker](https://github.com/Hugodujour/labo-clicker)** — parody idle game about lab life (React, Vite).
 
-Feel free to reach out: [email](mailto:hugogreg@live.fr) · [LinkedIn](https://www.linkedin.com/in/TODO)
+Feel free to reach out on GitHub: [@Hugodujour](https://github.com/Hugodujour)
 
 </details>
 
