@@ -34,8 +34,8 @@ const hugo = {
 };
 ```
 
-- ![En ce moment](https://img.shields.io/badge/EN_CE_MOMENT-1F6FEB?style=flat-square) Applications React / NestJS et expérimentations autour des agents IA.
-- ![À côté](https://img.shields.io/badge/%C3%80_C%C3%94T%C3%89-8B5CF6?style=flat-square) Jeux web, idle games, Electron et un peu de romhacking.
+- ![En ce moment](https://img.shields.io/badge/EN_CE_MOMENT-1F6FEB?style=flat-square) Apps React / NestJS et expérimentations autour des agents IA.
+- ![À côté](https://img.shields.io/badge/%C3%80_C%C3%94T%C3%89-8B5CF6?style=flat-square) Jeux web, Electron et un peu de romhacking.
 - ![On parle de](https://img.shields.io/badge/ON_PARLE_DE-0891B2?style=flat-square) React, NestJS, Electron, game design, Pokémon.
 - ![Contact](https://img.shields.io/badge/CONTACT-EA4335?style=flat-square&logo=gmail&logoColor=white) [email](mailto:hugogreg@live.fr) · [LinkedIn](https://www.linkedin.com/in/TODO)
 
